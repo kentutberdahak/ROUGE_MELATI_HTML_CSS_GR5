@@ -1,0 +1,116 @@
+*{ margin: 0
+    ;}
+
+header{
+    background-image: url('../photos/MD2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    height: 1.5em ;
+    align-items: end;
+    color: white;
+    font-size: 5em;
+}
+.bio{
+    display: flex;
+    text-align: center;
+    font-size:large;
+    height: 12em;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+main{
+    background-color: rgb(48, 44, 44);
+    height: 400px;
+}
+iframe{
+    margin-left: 30%;
+}
+footer{
+    display: flex;
+}
+.MDtitle{
+    display: flex;
+    justify-content: center;
+    height: 1.5em ;
+    align-items: end;
+    color: antiquewhite;
+    font-size: 2em;
+
+}
+.MDdes{
+    display: flex;
+    text-align: center;
+    font-size:large;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.KOBp{
+    margin-top: 15%;
+    margin-left: 20%;
+    margin-right: 15%;
+}
+
+.KOBtitle{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-size: 2em;
+    margin-top: 5%;
+}
+.KOBdes{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.BBp{
+    margin-top: 15%;
+    margin-left: 17%;
+    margin-right: 15%;
+}
+.BBtitle{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-size: 2em;
+    margin-top: 5%;
+}
+.BBdes{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.IASWp{ 
+    margin-top: 15%;
+    margin-left: 23%;
+    margin-right: 15%;
+}
+.IASWtitle{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-size: 2em;
+    margin-top: 5%;
+}
+.IASWdes{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+}

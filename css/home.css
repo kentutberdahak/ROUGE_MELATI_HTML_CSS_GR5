@@ -1,0 +1,63 @@
+*{ margin: 0
+    ;}
+
+h1{
+    display: flex;
+    justify-content: center;
+    height: 2.5em ;
+    align-items: center;
+    color: antiquewhite;
+    background-color: rgb(48, 44, 44);
+}
+nav{
+    background-image: url('../photos/BG.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intro{ 
+    display: flex;
+    text-align: center;
+    font-size:large;
+    height: 10em;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.MD{
+    flex-grow: 1;
+    width: 33%;
+    height: 500px;
+}
+.JC{
+    flex-grow: 1;
+    width: 33%;
+    height: 500px;
+}
+.SG{
+    flex-grow: 1;
+    width: 33%;
+    height: 500px;
+}
+.CB{
+    flex-grow: 1;
+    width: 33%;
+    height: 500px;
+}
+.BE{
+    flex-grow: 1;
+    width: 33%;
+    height: 500px;
+}
+.WM{
+    flex-grow: 1;
+    width: 33%;
+    height: 500px;
+}
